@@ -12,5 +12,7 @@ This is my personal CV website showcasing my education, skills, projects, and co
 
 
 ## Live Link
+-https://github.com/Adeebahaq/CV-Project
+-https://cv-adeeba.vercel.app/
 
 
